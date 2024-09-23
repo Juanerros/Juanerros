@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **PHP** & **MySQL**
+- 🔭 I’m currently working on **PHP** with **MySQL** & **C#** with **SQLserver**
 
 - 🌱 I’m currently learning **Nodejs, React & SCSS**
 
