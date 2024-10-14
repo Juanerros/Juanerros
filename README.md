@@ -37,15 +37,17 @@
 
 <h3>Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,dotnet,express,pug)](https://skillicons.dev)
 
 <h3>Frontend:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
 
 <h3>Databases:</h3>
+  
+<img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48"> [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
 
 <h3>Software & Tools:</h3>
 
