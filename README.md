@@ -45,7 +45,7 @@
 
 <h3>Databases:</h3>
   
-<img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48"> [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48.5"> [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
 
