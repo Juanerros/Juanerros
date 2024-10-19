@@ -26,7 +26,7 @@
   
 - 📫 Feel free to reach me out **juanescolar0@gmail.com**
 
-- 🌎 I’m from **Argentina**
+- 🌎 I’m a student from **Argentina**
 <!--Intro end-->
 
 ## 🛠️ My Skills
