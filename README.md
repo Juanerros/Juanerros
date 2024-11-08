@@ -18,9 +18,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **PHP** with **MySQL** & **C#** with **SQLserver**
+- 🔭 I’m currently working on **Node.js** with **MySQL** & **C#** with **SQLserver**
 
-- 🌱 I’m currently learning **Nodejs, React & SCSS**
+- 🌱 I’m currently learning **Nodejs, React & MongoDB**
 
 - 📚 I’m want to specialize in **backend**
   
@@ -37,7 +37,7 @@
 
 <h3>Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,react,express,pug)](https://skillicons.dev)
 
 <h3>Frontend:</h3>
 
@@ -45,7 +45,7 @@
 
 <h3>Databases:</h3>
   
-<img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48.5"> [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48.5"> [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 <h3>Software & Tools:</h3>
 
