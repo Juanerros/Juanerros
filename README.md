@@ -53,7 +53,7 @@
 
 <h3>IDEs:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino)](https://skillicons.dev)
  
 <h3>Operating Systems:</h3>
 
