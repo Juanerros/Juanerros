@@ -51,16 +51,10 @@
 <h3>IDEs:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino)](https://skillicons.dev)
- 
-<h3>Operating Systems:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=windows,kali)](https://skillicons.dev)
 
 <h3>Videogames:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
  
 <br> 
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
