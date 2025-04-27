@@ -18,9 +18,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Node.js** with **MySQL** & **C#** with **SQLserver**
+- 🔭 I’m currently working on **Node.js** with **Firebase**
 
-- 🌱 I’m currently learning **Nodejs, React & MongoDB**
+- 🌱 I’m currently learning **Firebase & Hosting**
 
 - 📚 I’m want to specialize in **backend**
   
