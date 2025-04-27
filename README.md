@@ -1,7 +1,4 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<hr>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -18,7 +15,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Node.js** with **Firebase**
+- 🔭 I’m currently working on **Node.js & React.Js** with **Firebase**
 
 - 🌱 I’m currently learning **Firebase & Hosting**
 
