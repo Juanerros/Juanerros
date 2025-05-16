@@ -15,11 +15,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Node.js & React.Js** with **Firebase**
+- 🔭 I’m currently working on **Node.js/Express & React.Js/Vite** with **MySQL**
 
 - 🌱 I’m currently learning **Firebase & Hosting**
 
-- 📚 I’m want to specialize in **backend**
+- 📚 I’m want to specialize in **Fullstack**
   
 - 📫 Feel free to reach me out **juanescolar0@gmail.com**
 
