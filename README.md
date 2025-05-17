@@ -20,12 +20,14 @@
 - 🌱 I’m currently learning **Firebase & Hosting**
 
 - 📚 I’m want to specialize in **Fullstack**
+
+- 📖 I've know **POO**, **clean arquitecture** y **hosting basic**.
   
 - 📫 Feel free to reach me out **juanescolar0@gmail.com**
 
 - 🌎 I’m a student from **Argentina**
 <!--Intro end-->
-
+ <br>
 ## 🛠️ My Skills
 
 <h3>Programming languages:</h3>
