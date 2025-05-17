@@ -15,17 +15,20 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Node.js/Express & React.Js/Vite** with **MySQL**
+- 🔭 I’m currently working on **Node.js/Express and React.Js/Vite** with **MySQL**
 
 - 🌱 I’m currently learning **Firebase & Hosting**
 
 - 📚 I’m want to specialize in **Fullstack**
 
-- 📖 I've know **POO**, **clean arquitecture** y **hosting basic**.
-  
-- 📫 Feel free to reach me out **juanescolar0@gmail.com**
+- 📖 I've know **POO**, **clean arquitecture** and **hosting basic**.
 
 - 🌎 I’m a student from **Argentina**
+
+- 🗣️ I speak **spanish** (native) and **english** (intermedie).
+
+- 📫 Feel free to reach me out **juanescolar0@gmail.com**
+
 <!--Intro end-->
 
  <br/>
