@@ -27,7 +27,9 @@
 
 - 🌎 I’m a student from **Argentina**
 <!--Intro end-->
- <br>
+
+ <br/>
+
 ## 🛠️ My Skills
 
 <h3>Programming languages:</h3>
