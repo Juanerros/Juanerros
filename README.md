@@ -21,7 +21,7 @@
 
 - 📚 I’m want to specialize in **Fullstack**
 
-- 📖 I've know **POO**, **clean arquitecture** and **hosting basic**.
+- 📖 I've know **POO**, **clean arquitecture** and **basic hosting**.
 
 - 🌎 I’m a student from **Argentina**
 
