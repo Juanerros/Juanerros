@@ -37,15 +37,15 @@
 
 <h3>Programming languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=php,js,cs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,cs,java,kotlin)](https://skillicons.dev)
 
-<h3>Frameworks:</h3>
+<h3>Frameworks & librarys:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,react,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,react,vite,express)](https://skillicons.dev)
 
 <h3>Frontend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <h3>Databases:</h3>
   
@@ -55,13 +55,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,npm,postman)](https://skillicons.dev)
 
-<h3>IDEs:</h3>
+<h3>Editores & IDEs:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino,androidstudio)](https://skillicons.dev)
 
 <h3>Videogames:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=unity,blender)](https://skillicons.dev)
- 
+
 <br> 
 <hr>
