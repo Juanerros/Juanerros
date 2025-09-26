@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Juan Francisco Cotter</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Juan Francisco Cottier</h1></summary>
   </ul>
 </div>
 
@@ -16,11 +16,11 @@
   
 - 🔭 I'm currently working on **Node.js/Express and React.Js/Vite** with **MySQL**
   
-- 🌱 I'm currently learning **Firebase & Hosting**
+- 🌱 I'm currently learning **Hosting**
   
-- 📚 I want to specialize in **Fullstack**
+- 📚 I want to specialize in **Web Fullstack**
   
-- 📖 I've know **POO**, **clean architecture** and **basic hosting**.
+- 📖 I've know **POO**, **clean architecture** and **basic hosting & deployment**.
   
 - 🌎 I'm a student from **Argentina**
   
