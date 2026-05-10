@@ -41,13 +41,14 @@
 [![My Skills](https://skillicons.dev/icons?i=js,php,cs,java,kotlin)](https://skillicons.dev)
 
 ### Frameworks & libraries:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vite,express,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,vite,dotnet)](https://skillicons.dev)
 
 ### Frontend:
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### Databases:
-<img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48.5"> [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+//<img src="https://github.com/user-attachments/assets/7b4ecb00-b756-4d47-be2f-8561ce7ec254" width="48.5">
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
 
 ### Software & Tools:
 [![My Skills](https://skillicons.dev/icons?i=github,git,npm,postman)](https://skillicons.dev)
