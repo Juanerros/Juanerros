@@ -18,11 +18,11 @@
   
 - 🌱 I'm currently learning **Hosting**
   
-- 📚 I want to specialize in **Web Fullstack**
+- 📚 I want to specialize in **Backend & DevOps**
   
 - 📖 I've know **POO**, **clean architecture** and **basic hosting & deployment**.
   
-- 🌎 I'm a student from **Argentina**
+- 🌎 I'm a computer engineering student from **Argentina**
   
 - 🗣️ I speak **Spanish** (native) and **English** (intermediate).
   
