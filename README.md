@@ -16,9 +16,9 @@
   
 - 🔭 I'm currently working on **Node.js/Express and React.Js/Vite** with **MySQL**
   
-- 🌱 I'm currently learning **Hosting**
+- 🌱 I'm currently learning **Hosting & DevOps**
   
-- 📚 I want to specialize in **Backend & DevOps**
+- 📚 I want to specialize in **Backend, hosting & DevOps**
   
 - 📖 I've know **POO**, **clean architecture** and **basic hosting & deployment**.
   
